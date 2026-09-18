@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Language: ar\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=6; plural=n==0?0:n==1?1:n==2?2:n%100>=3&&n%100<=10?3:n%100>=11?4:5;\n"
+
+msgid "Add to cart"
+msgstr "أضف إلى السلة"
+
+msgid "Cart"
+msgstr "السلة"
+
+msgid "Checkout"
+msgstr "إتمام الطلب"
+
+msgid "Order now"
+msgstr "اطلب الآن"
+
+msgid "Total"
+msgstr "المجموع"
+
+msgid "Subtotal"
+msgstr "المجموع الفرعي"
+
+msgid "Delivery charge"
+msgstr "رسوم التوصيل"
+
+msgid "Cash on delivery"
+msgstr "الدفع عند الاستلام"
+
+msgid "Out of stock"
+msgstr "غير متوفر"
+
+msgid "In stock"
+msgstr "متوفر"
+
+msgid "Your name"
+msgstr "اسمك"
+
+msgid "Mobile number"
+msgstr "رقم الجوال"
+
+msgid "Address"
+msgstr "العنوان"
+
+msgid "Track order"
+msgstr "تتبع الطلب"
+
+msgid "My orders"
+msgstr "طلباتي"
+
+msgid "Categories"
+msgstr "الفئات"
+
+msgid "Search products"
+msgstr "ابحث عن المنتجات"
+
+msgid "Order placed"
+msgstr "تم إرسال الطلب"
+
+msgid "Pending"
+msgstr "قيد الانتظار"
+
+msgid "Confirmed"
+msgstr "مؤكد"
+
+msgid "Packed"
+msgstr "تم التغليف"
+
+msgid "Out for delivery"
+msgstr "خرج للتوصيل"
+
+msgid "Delivered"
+msgstr "تم التوصيل"
+
+msgid "Cancelled"
+msgstr "ملغي"
+
+msgid "Rate your order"
+msgstr "قيّم طلبك"
+
+msgid "Minimum order"
+msgstr "الحد الأدنى للطلب"
+
+msgid "Price"
+msgstr "السعر"
+
+msgid "Quantity"
+msgstr "الكمية"
+
+msgid "Language"
+msgstr "اللغة"
+
+msgid "Bengali"
+msgstr "البنغالية"
+
+msgid "English"
+msgstr "الإنجليزية"
+
+msgid "Arabic"
+msgstr "العربية"
+
+msgid "Bestsellers"
+msgstr "الأكثر مبيعاً"
+
+msgid "Minimum order amount not met"
+msgstr "لم يتم استيفاء الحد الأدنى للطلب"
+
+msgid "Product is out of stock"
+msgstr "المنتج غير متوفر"
+
+msgid "Invalid coupon code"
+msgstr "رمز القسيمة غير صالح"
+
+msgid "Order not found"
+msgstr "الطلب غير موجود"

@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Language: en\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Add to cart"
+msgstr "Add to cart"
+
+msgid "Cart"
+msgstr "Cart"
+
+msgid "Checkout"
+msgstr "Checkout"
+
+msgid "Order now"
+msgstr "Order now"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Subtotal"
+msgstr "Subtotal"
+
+msgid "Delivery charge"
+msgstr "Delivery charge"
+
+msgid "Cash on delivery"
+msgstr "Cash on delivery"
+
+msgid "Out of stock"
+msgstr "Out of stock"
+
+msgid "In stock"
+msgstr "In stock"
+
+msgid "Your name"
+msgstr "Your name"
+
+msgid "Mobile number"
+msgstr "Mobile number"
+
+msgid "Address"
+msgstr "Address"
+
+msgid "Track order"
+msgstr "Track order"
+
+msgid "My orders"
+msgstr "My orders"
+
+msgid "Categories"
+msgstr "Categories"
+
+msgid "Search products"
+msgstr "Search products"
+
+msgid "Order placed"
+msgstr "Order placed"
+
+msgid "Pending"
+msgstr "Pending"
+
+msgid "Confirmed"
+msgstr "Confirmed"
+
+msgid "Packed"
+msgstr "Packed"
+
+msgid "Out for delivery"
+msgstr "Out for delivery"
+
+msgid "Delivered"
+msgstr "Delivered"
+
+msgid "Cancelled"
+msgstr "Cancelled"
+
+msgid "Rate your order"
+msgstr "Rate your order"
+
+msgid "Minimum order"
+msgstr "Minimum order"
+
+msgid "Price"
+msgstr "Price"
+
+msgid "Quantity"
+msgstr "Quantity"
+
+msgid "Language"
+msgstr "Language"
+
+msgid "Bengali"
+msgstr "Bengali"
+
+msgid "English"
+msgstr "English"
+
+msgid "Arabic"
+msgstr "Arabic"
+
+msgid "Bestsellers"
+msgstr "Bestsellers"
+
+msgid "Minimum order amount not met"
+msgstr "Minimum order amount not met"
+
+msgid "Product is out of stock"
+msgstr "Product is out of stock"
+
+msgid "Invalid coupon code"
+msgstr "Invalid coupon code"
+
+msgid "Order not found"
+msgstr "Order not found"

@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Language: bn\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Add to cart"
+msgstr "কার্টে যোগ করুন"
+
+msgid "Cart"
+msgstr "কার্ট"
+
+msgid "Checkout"
+msgstr "অর্ডার সম্পন্ন করুন"
+
+msgid "Order now"
+msgstr "এখনই অর্ডার করুন"
+
+msgid "Total"
+msgstr "মোট"
+
+msgid "Subtotal"
+msgstr "উপমোট"
+
+msgid "Delivery charge"
+msgstr "ডেলিভারি চার্জ"
+
+msgid "Cash on delivery"
+msgstr "ক্যাশ অন ডেলিভারি"
+
+msgid "Out of stock"
+msgstr "স্টক শেষ"
+
+msgid "In stock"
+msgstr "স্টকে আছে"
+
+msgid "Your name"
+msgstr "আপনার নাম"
+
+msgid "Mobile number"
+msgstr "মোবাইল নম্বর"
+
+msgid "Address"
+msgstr "ঠিকানা"
+
+msgid "Track order"
+msgstr "অর্ডার ট্র্যাক করুন"
+
+msgid "My orders"
+msgstr "আমার অর্ডার"
+
+msgid "Categories"
+msgstr "ক্যাটাগরি"
+
+msgid "Search products"
+msgstr "পণ্য খুঁজুন"
+
+msgid "Order placed"
+msgstr "অর্ডার সম্পন্ন হয়েছে"
+
+msgid "Pending"
+msgstr "পেন্ডিং"
+
+msgid "Confirmed"
+msgstr "কনফার্মড"
+
+msgid "Packed"
+msgstr "প্যাক করা হয়েছে"
+
+msgid "Out for delivery"
+msgstr "ডেলিভারির জন্য পাঠানো হয়েছে"
+
+msgid "Delivered"
+msgstr "ডেলিভারি সম্পন্ন"
+
+msgid "Cancelled"
+msgstr "বাতিল"
+
+msgid "Rate your order"
+msgstr "অর্ডারটি রেটিং দিন"
+
+msgid "Minimum order"
+msgstr "সর্বনিম্ন অর্ডার"
+
+msgid "Price"
+msgstr "মূল্য"
+
+msgid "Quantity"
+msgstr "পরিমাণ"
+
+msgid "Language"
+msgstr "ভাষা"
+
+msgid "Bengali"
+msgstr "বাংলা"
+
+msgid "English"
+msgstr "ইংরেজি"
+
+msgid "Arabic"
+msgstr "আরবি"
+
+msgid "Bestsellers"
+msgstr "বেস্টসেলার"
+
+msgid "Minimum order amount not met"
+msgstr "সর্বনিম্ন অর্ডারের পরিমাণ পূরণ হয়নি"
+
+msgid "Product is out of stock"
+msgstr "পণ্যটি স্টকে নেই"
+
+msgid "Invalid coupon code"
+msgstr "ভুল কুপন কোড"
+
+msgid "Order not found"
+msgstr "অর্ডার পাওয়া যায়নি"

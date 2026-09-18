@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.mo
+db.sqlite3
+db.sqlite3-journal
+.env
+.venv/
+venv/
+media/
+staticfiles/
+.coverage
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+.DS_Store
